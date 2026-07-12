@@ -6,7 +6,7 @@ This project analyzes sales performance using the Superstore Sales dataset. The 
 
 ## 📷 Dashboard Preview
 
-![Sales Performance Dashboard](Sales_performance_Dashboard.png)
+![Sales_performance_Dashboard.png](Sales_performance_Dashboard.png)
 
 The objective of this dashboard is to help business stakeholders monitor overall sales performance and make data-driven decisions.
 
